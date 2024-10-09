@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871114411958",
+    "project_id": "dine-ease-63a1b",
+    "storage_bucket": "dine-ease-63a1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871114411958:android:a73d01336b1a74d7d9bb17",
+        "android_client_info": {
+          "package_name": "com.atees.dine_ease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1mgrh2wSLldaIxJr57hMwrwTPieu9yto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
